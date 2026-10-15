@@ -821,7 +821,7 @@ FILE COMMANDS
 
 `ls -a `: This will display or show all hidden files and directories 
 
-`cp (copy)` : copy files or directories from one location to another 
+`cp (copy)` : copy files or directories from one location to another. note you can use " cp -r "  when you want to copy a directory.
 
 `mv` : moves files or directories from one location to another and it can also be used to rename files or direcories 
 e.g for file rename   mv <old-directory-name> <new-directory name>
@@ -860,7 +860,7 @@ for moving of files :  mv <filename or directory u want to move> <location where
 + mkdir : creates a directory 
 + rmdir  : remove direcotory 
 + rm -r or rm -rf : force remove 
-+ cp -r 
++ cp -r to copy a directory
 + tree 
 
  
